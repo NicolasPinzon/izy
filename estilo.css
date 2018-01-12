@@ -1,0 +1,12 @@
+.izy_info{
+    margin-left: 5px;
+    font-weight:bold;
+}
+.izy_enunciado{
+    text-decoration: underline;
+
+}
+
+body .pla-content .pla-app-body .pla-app-side-bar {
+    position: static;
+}
