@@ -12,7 +12,7 @@ Permite tener las calificaciones de los profesores sin salir de la página en la
 Desde Chrome dar click en este [link](https://chrome.google.com/webstore/detail/ejlednlcppjjknhelilppmccfmbmmlhb) o entrar a [Chrome Web Store](https://chrome.google.com/webstore/) y buscar Izy.
 
 ## CÓMO FUNCIONA
-Una vez instalada desde [Chrome Web Store](https://chrome.google.com/webstore/detail/ejlednlcppjjknhelilppmccfmbmmlhb) (por ahora solo existe para los usuarios de Chrome), solo es necesario entrar a la página de [Academical](https://uniandes.academical.co/),
+Una vez instalada desde [Chrome Web Store](https://chrome.google.com/webstore/detail/ejlednlcppjjknhelilppmccfmbmmlhb) (por ahora solo existe para los usuarios de Chrome), solo es necesario entrar a la página de [Academical](https://uniandes.academical.co/) (si no aparece el boton verde debajo del logo de Academical refresque la página y aparecera, esto se debe a un bug que sera corregido en la siguiente versión),
 escribir algo en el buscador y cuando carguen los resultados oprimir el boton "Qué tal los teachers?". Pasarán algunos segundos e iran apareciendo las
 calificaciones de cada uno de los profesores bajo los cursos (ver imagen).
 
